@@ -6,7 +6,7 @@ var bio = {
         "linkedin": "check me out on LinkedIn",
         "github": "check out my GitHub",
         "facebook": "check out my Facebook",
-        "website": "check out my website",
+        "website": "check out my Google+",
         "location": "Taipei, TW"
     },
     "welcomeMessage": "",
