@@ -11,7 +11,7 @@ var HTMLlocation = '<div class="location-info"><i class="ion-ios-location-outlin
     // contact info
 var HTMLcontactDiv = '<div class="contact-div"></div>';
 var HTMLcontactGeneric = '<div class="contact-item"><div class="contact-attr">%contact%</div><div class="contact-value"><span>%data%</span></div>';
-var HTMLlinkedin = '<div class="contact-item"><a href="https://www.linkedin.com/in/robbie-doyen-619b58b/" target="_blank"><div class="contact-icon-align-box"><i class="ion-social-linkedin contact-icon"></i></div></a><div class="contact-value"><span>%data%</span></div>';
+var HTMLlinkedin = '<div class="contact-item"><a href="https://www.linkedin.com/in/robbie-doyen-619b58b/" target="_blank"><div class="contact-icon-align-box"><ion-icon name="linkedin"></ion-icon></div></a><div class="contact-value"><span>%data%</span></div>';
 var HTMLgithub = '<div class="contact-item"><a href="https://github.com/toosmallshoes" target="_blank"><div class="contact-icon-align-box"><i class="ion-social-github contact-icon"></i></div></a><div class="contact-value"><span>%data%</span></div>';
 var HTMLfacebook = '<div class="contact-item"><a href="https://www.facebook.com/robbie.doyen"target="_blank"><div class="contact-icon-align-box"><i class="ion-ios-facebook contact-icon"></i></div></a><div class="contact-value"><span>%data%</span></div>';
 var HTMLwebsite = '<div class="contact-item"><a href="https://plus.google.com/111960188261433247359"target="_blank"><div class="contact-icon-align-box"><i class="ion-ios-paper"></i></div></a><div class="contact-value"><span>%data%</span></div>';
