@@ -25,7 +25,7 @@ var HTMLskills = '<li class="flex-item"><span class="black-text">%data%</span></
 
 
 // begin work experience section-----
-var HTMLworkHeader = '<div class="section-header"><div class="section-icon"><i class="ion-ios-paper"></i></div><div class="section-header-title"><h2 class="title-text">Experience</h2></div><div class="pull-menu-icon"><i class="ion-ios-arrow-down"></i></div></div>';
+var HTMLworkHeader = '<div class="section-header"><div class="section-icon"><i class="ion-ios-paper"></i></div><div class="section-header-title"><h2 class="title-text">Experience</h2></div><div class="pull-menu-icon"><i class="ion-ios-arrow-dropdown"></i></div></div>';
 var HTMLworkStart = '<div class="work-entry"></div>';
 var HTMLworkEmployer = '<p class="sub-header">%data%';
 var HTMLworkTitle = ' - %data%</p>';
@@ -35,7 +35,7 @@ var HTMLworkDescription = '<p class="description-text">%data%</p>';
 // end work experience section-----
 
 // begin education section-----
-var HTMLeducationHeader = '<div class="section-header"><div class="section-icon"><i class="ion-ios-lightbulb"></i></div><div class="section-header-title"><h2 class="title-text">Education</h2></div><div class="pull-menu-icon"><i class="ion-ios-arrow-down"></i></div></div>';
+var HTMLeducationHeader = '<div class="section-header"><div class="section-icon"><i class="ion-ios-lightbulb"></i></div><div class="section-header-title"><h2 class="title-text">Education</h2></div><div class="pull-menu-icon"><i class="ion-ios-arrow-dropdown"></i></div></div>';
 var HTMLschoolStart = '<div class="education-entry"></div>';
 var HTMLschoolName = '<a href="#" class="sub-header">%data%';
 var HTMLschoolDegree = ' - %data%</a>';
@@ -55,7 +55,7 @@ var HTMLonlineDescription = '<p class="description-text">%data%</p>';
 // end education section-----
 
 // begin projects section-----
-var HTMLprojectHeader = '<div class="section-header"><div class="section-icon"><i class="ion-briefcase"></i></div><div class="section-header-title"><h2 class="title-text">Projects</h2></div><div class="pull-menu-icon"><i class="ion-ios-arrow-down"></i></div></div>';
+var HTMLprojectHeader = '<div class="section-header"><div class="section-icon"><i class="ion-briefcase"></i></div><div class="section-header-title"><h2 class="title-text">Projects</h2></div><div class="pull-menu-icon"><i class="ion-ios-arrow-dropdown"></i></div></div>';
 var HTMLprojectStart = '<div class="project-entry"></div>';
 var HTMLprojectTitle = '<a href="#" class="sub-header">%data%</a>';
 var HTMLprojectDates = '<div class="date-text"><p>%data%</p></div>';
@@ -68,7 +68,7 @@ var HTMLprojectImage = '<img src="%data%" class="project-screenshot">';
 // end skills section
 
 // begin googleMaps-----
-var HTMLmapsHeader = '<div class="section-header"><div class="section-icon"><i class="ion-ios-navigate"></i></div><div class="section-header-title"><h2 class="title-text">My Places</h2></div><div class="pull-menu-icon"><i class="ion-ios-arrow-down"></i></div></div>';
+var HTMLmapsHeader = '<div class="section-header"><div class="section-icon"><i class="ion-ios-navigate"></i></div><div class="section-header-title"><h2 class="title-text">My Places</h2></div><div class="pull-menu-icon"><i class="ion-ios-arrow-dropdown"></i></div></div>';
 var googleMap = '<div id="map"></div>';
 var map; // declares a global map variable
 /*
