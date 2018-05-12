@@ -35,7 +35,7 @@ var HTMLworkDescription = '<p class="description-text">%data%</p>';
 // end work experience section-----
 
 // begin education section-----
-var HTMLeducationHeader = '<div class="section-header"><div class="section-icon"><i class="ion-ios-lightbulb"></i></div><div class="section-header-title"><h2 class="title-text">Education</h2></div><div class="pull-menu-icon"><i class="ion-ios-arrow-dropdown"></i></div></div>';
+var HTMLeducationHeader = '<div class="section-header"><div class="section-icon"><i class="ion-ios-bulb"></i></div><div class="section-header-title"><h2 class="title-text">Education</h2></div><div class="pull-menu-icon"><i class="ion-ios-arrow-dropdown"></i></div></div>';
 var HTMLschoolStart = '<div class="education-entry"></div>';
 var HTMLschoolName = '<a href="#" class="sub-header">%data%';
 var HTMLschoolDegree = ' - %data%</a>';
