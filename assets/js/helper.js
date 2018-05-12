@@ -55,7 +55,7 @@ var HTMLonlineDescription = '<p class="description-text">%data%</p>';
 // end education section-----
 
 // begin projects section-----
-var HTMLprojectHeader = '<div class="section-header"><div class="section-icon"><i class="ion-briefcase"></i></div><div class="section-header-title"><h2 class="title-text">Projects</h2></div><div class="pull-menu-icon"><i class="ion-ios-arrow-dropdown"></i></div></div>';
+var HTMLprojectHeader = '<div class="section-header"><div class="section-icon"><i class="ion-ios-briefcase"></i></div><div class="section-header-title"><h2 class="title-text">Projects</h2></div><div class="pull-menu-icon"><i class="ion-ios-arrow-dropdown"></i></div></div>';
 var HTMLprojectStart = '<div class="project-entry"></div>';
 var HTMLprojectTitle = '<a href="#" class="sub-header">%data%</a>';
 var HTMLprojectDates = '<div class="date-text"><p>%data%</p></div>';
