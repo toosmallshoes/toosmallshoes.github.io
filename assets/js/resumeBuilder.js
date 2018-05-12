@@ -93,7 +93,7 @@ var projects = {
 {
             "title": "THE ADVENTURES OF CODY",
             "dates": "2017-Current",
-            "description": "Writing a series of children's book that teach coding and emotional intelligence.",
+            "description": "Writing a series of comics and children's books that teach coding and emotional intelligence.",
             "images": ["assets/images/codyComicCover2.png", "assets/images/codyHowDoTheyFeel.jpg"]
       }],
 
