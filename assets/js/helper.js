@@ -68,7 +68,7 @@ var HTMLprojectImage = '<img src="%data%" class="project-screenshot">';
 // end skills section
 
 // begin googleMaps-----
-var HTMLmapsHeader = '<div class="section-header"><div class="section-icon"><i class="ion-ios-navigate"></i></div><div class="section-header-title"><h2 class="title-text">My Places</h2></div><div class="pull-menu-icon"><i class="ion-chevron-down icon-box"></i></div></div>';
+var HTMLmapsHeader = '<div class="section-header"><div class="section-icon"><i class="ion-ios-navigate"></i></div><div class="section-header-title"><h2 class="title-text">My Places</h2></div><div class="pull-menu-icon"><i class="ion-ios-arrow-down"></i></div></div>';
 var googleMap = '<div id="map"></div>';
 var map; // declares a global map variable
 /*
