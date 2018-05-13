@@ -130,6 +130,13 @@ var education = {
         "dates": "2013",
         "url": "link for more information",
         "description": "Certification for teaching English as a foreign language."
+    },
+    {
+        "title": "Emotion Coaching: The Heart of Parenting",
+        "school": "The Gottman Institute",
+        "dates": "2013",
+        "url": "link for more information",
+        "description": "Developed from Dr. John Gottman’s research on emotional intelligence, Emotion Coaching: The Heart of Parenting presents a 5-step method that builds emotional intelligence and creates positive, long lasting effects for children. Easy to learn, and used by parents, educators and care-givers, it supports kids through life’s ups and downs in a way that builds confidence and helps them grow socially, emotionally and intellectually."
     }],
     "display": function () {
         $("#education").append(HTMLeducationHeader);
