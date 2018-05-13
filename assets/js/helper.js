@@ -13,8 +13,6 @@ var HTMLcontactDiv = '<div class="contact-div"></div>';
 var HTMLcontactGeneric = '<div class="contact-item"><div class="contact-attr">%contact%</div><div class="contact-value"><span>%data%</span></div>';
 var HTMLlinkedin = '<div class="contact-item"><a href="https://www.linkedin.com/in/robbie-doyen-619b58b/" target="_blank"><div class="contact-icon-align-box"><i class="icon ion-logo-linkedin"></i></div></a><div class="contact-value"><span>%data%</span></div>';
 
-
-
 var HTMLgithub = '<div class="contact-item"><a href="https://github.com/toosmallshoes" target="_blank"><div class="contact-icon-align-box"><i class="icon ion-logo-github"></i></div></a><div class="contact-value"><span>%data%</span></div>';
 var HTMLfacebook = '<div class="contact-item"><a href="https://www.facebook.com/robbie.doyen"target="_blank"><div class="contact-icon-align-box"><i class="icon ion-logo-facebook"></i></div></a><div class="contact-value"><span>%data%</span></div>';
 var HTMLwebsite = '<div class="contact-item"><a href="https://plus.google.com/111960188261433247359"target="_blank"><div class="contact-icon-align-box"><i class="icon ion-logo-googleplus"></i></div></a><div class="contact-value"><span>%data%</span></div>';
@@ -48,7 +46,7 @@ var HTMLschoolMajor = '<div class="major"><p class="description-text">Major: %da
 var HTMLschoolMinor = '<div class="minor"><p class="description-text">Minor: %data%</p></div>';
 var HTMLschoolDescription = '<p class="description-text">%data%</p>';
 var HTMLonlineClassesStart = '<div class="online-classes-entry" style="display: none;"></div>';
-var HTMLonlineClasses = '<p class="sub-header">Online Degrees</p>';
+var HTMLonlineClasses = '<p class="sub-header">Online Courses</p>';
 var HTMLonlineClassesSubHeading = '<div class="online-classes-sub-heading"> </div>';
 var HTMLonlineTitle = '<p>%data%</p>';
 var HTMLonlineSchool = '<p> - %data%</p>';
